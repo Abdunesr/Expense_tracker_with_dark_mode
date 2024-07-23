@@ -1,16 +1,4 @@
-# first_app
+This is a an expense tracker APP that shows Diffrent  Expenses ie. Expenses for the food ,Expenses For work,Expenses for the leasure,Exenses for the travel    this app Have dARK AND LIGHT MODE THEME  with  icon on click feature the Themeing that is used in this app is beyond the beuty limit please make sure you have completed all the neccessary steps to install and acomplish the installation that it would be make you able to run this flutter app you can also directly test i your physical device there is nothong that you worry about the security 
 
-A new Flutter project.
+for more information check the official documentation provided by flutter https://flutter.dev.com
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
